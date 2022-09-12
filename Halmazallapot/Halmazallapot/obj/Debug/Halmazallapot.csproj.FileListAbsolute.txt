@@ -1,0 +1,7 @@
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\bin\Debug\Halmazallapot.exe.config
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\bin\Debug\Halmazallapot.exe
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\bin\Debug\Halmazallapot.pdb
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\obj\Debug\Halmazallapot.csproj.AssemblyReference.cache
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\obj\Debug\Halmazallapot.csproj.CoreCompileInputs.cache
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\obj\Debug\Halmazallapot.exe
+C:\Users\xy\source\repos\Halmazallapot\Halmazallapot\obj\Debug\Halmazallapot.pdb
