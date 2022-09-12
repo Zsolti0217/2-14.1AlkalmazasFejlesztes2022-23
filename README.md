@@ -1,0 +1,1 @@
+# 2-14.1AlkalmazasFejlesztes2022-23
