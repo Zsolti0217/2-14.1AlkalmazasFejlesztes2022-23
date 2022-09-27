@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\obj\Debug\Sikidom2.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\obj\Debug\Sikidom2.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\bin\Debug\Sikidom2.exe.config
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\bin\Debug\Sikidom2.exe
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\bin\Debug\Sikidom2.pdb
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\obj\Debug\Sikidom2.exe
+C:\Users\cisco\source\repos\Sikidom2\Sikidom2\obj\Debug\Sikidom2.pdb
