@@ -1,0 +1,20 @@
+fájl(txt,html,xml,json) vs adatbázis
+- felhasználók száma
+- biztonság
+
+
+adatbázikezelők
+- Acces
+- MySQL
+- MS SQL
+- Oracle
+- MariaDB
+
+
+SELECT eredménytábla oszlopai
+FROM honnan vegye az adatokat
+WHERE forrás adatok sorainak a szűrése feltétellel
+GROUP BY csoport képzés érték alapján
+HAVING összesített sorok szűrése
+ORDER BY eredmény rendezése
+LIMIT kijelzett sorok számának megadása
