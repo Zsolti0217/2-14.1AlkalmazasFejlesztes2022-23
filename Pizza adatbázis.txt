@@ -1,0 +1,35 @@
+40.Kik szállítottak házhoz legalább tízszer?
+SELECT fnev
+FROM rendeles, futar
+WHERE rendeles.fazon = futar.fazon
+GROUP BY fnev
+HAVING (COUNT(rendeles.fazon)>= 10);
+
+
+41.Mely pizzából fogyott legalább 50 db?
+
+
+
+42.Mely vevők nem rendeltek legalább háromszor?
+SELECT vevo.vnev
+FROM rendeles, vevo
+WHERE rendeles.vazon = vevo.vazon
+GROUP BY vevo.vnev
+HAVING(COUNT(rendeles.vazon)<3);
+
+
+43.Kik rendeltek legalább 5 Hawaii pizzát?
+
+44.Milyen pizzából nem rendelt soha Tudor?
+
+45.Van-e olyan pizza, amelyből soha nem rendeltek?
+
+46.Ki nem rendelt soha Vesuvio pizzát?
+
+47.Mely pizzafutárokkal nem találkoztak az egyes vevők?
+
+48.Kik rendeltek több Sorrento pizzát, mint Vesuviot?
+
+49.Kik rendeltek legalább 5 Capricciosa vagy 8 Frutti di Mare pizzát?
+
+50.Kik rendeltek kétfajta pizzából is legalább 10 darabot?
